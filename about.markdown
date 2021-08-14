@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Daniel but most people call me Schmitzi!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a bioinformatics PhD student in Uppsala, Sweden.
+Before that, I was born and raised around Berlin and got my Bachelor's and Master's in Munich.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I'm not busy doing research, I am politically active at the board of [RFSL Uppsala](https://uppsala.rfsl.se).
+In my free time, I like to play mahjong, pole dance and game.
