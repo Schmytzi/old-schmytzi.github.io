@@ -29,7 +29,7 @@ twitter_username: Schmytzi
 github_username:  Schmytzi
 
 # Build settings
-remote_theme: h01000110/windows-95
+theme: minima
 plugins:
   - jekyll-feed
 
