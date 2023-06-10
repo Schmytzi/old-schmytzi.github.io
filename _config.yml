@@ -27,11 +27,11 @@ url: "https://schmytzi.github.io" # the base hostname & protocol for your site, 
 domain: "schmytzi.github.io"
 twitter_username: Schmytzi
 github_username:  Schmytzi
+linkedin_username: daniel-schmitz-ab0089219/
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
