@@ -39,9 +39,7 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/Schmytzi/" }
     - { platform: twitter, user_url: "https://twitter.com/schmytzi" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/daniel-schmitz-ab0089219", title: "Daniel Schmitz" }
-    - { platform: orcid, user_url: "https://orcid.org/0000-0003-4480-891X" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=mNKN6GQAAAAJ&hl=en" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/daniel-schmitz-ab0089219"}
     - { platform: instagram, user_url: "https://instagram.com/schmytzi" }
 
 # Exclude from processing.
